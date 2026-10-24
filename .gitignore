@@ -220,5 +220,5 @@ __marimo__/
 .streamlit/secrets.tomls
 
 #big files
-src/data/soc-redditHyperlinks-body.tsv
-src/data/soc-redditHyperlinks-title.tsv
+data/soc-redditHyperlinks-body.tsv
+data/soc-redditHyperlinks-title.tsv
