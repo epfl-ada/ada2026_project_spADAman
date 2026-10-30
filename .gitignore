@@ -221,4 +221,6 @@ __marimo__/
 
 #big files
 data/soc-redditHyperlinks-body.tsv
-data/soc-redditHyperlinks-title.tsv
+data/soc-redditHyperlinks-title.tsvsrc/data/
+data/
+src/data/
